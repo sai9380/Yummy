@@ -44,6 +44,21 @@ This project was built as a Java Full Stack learning project using JSP, Servlets
 ### IDE
 - ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?logo=eclipseide&logoColor=white)
 
+## 🗄 Database Tables
+- User
+- Restaurant
+- Menu
+- Orders
+- OrderDetails
+
+## 🏗 Architecture
+This project follows the MVC (Model-View-Controller) architecture.
+- Model → Java Beans
+- View → JSP, HTML, CSS, JavaScript
+- Controller → Java Servlets
+- Database → MySQL
+The application is fully dynamic, with all restaurant, menu, user, cart, and order data retrieved from and stored in a MySQL database using JDBC.
+
 ## 📂 Project Structure
 
 ```
