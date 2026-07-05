@@ -25,24 +25,24 @@ This project was built as a Java Full Stack learning project using JSP, Servlets
 
 ## 🛠 Technologies Used
 ### Frontend
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)HTML5
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)CSS3
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)JavaScript
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)Java
-- ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)JSP
-- ![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge)Servlets
-- ![JDBC](https://img.shields.io/badge/JDBC-Database-success)JDBC
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
+- ![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge)
+- ![JDBC](https://img.shields.io/badge/JDBC-Database-success)
 
 ### Database
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)MySQL
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Server
-- ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)Apache Tomcat 9
+- ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 ### IDE
-- ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?logo=eclipseide&logoColor=white)Eclipse IDE
+- ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?logo=eclipseide&logoColor=white)
 
 ## 📂 Project Structure
 
