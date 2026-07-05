@@ -57,6 +57,7 @@ This project follows the MVC (Model-View-Controller) architecture.
 - View → JSP, HTML, CSS, JavaScript
 - Controller → Java Servlets
 - Database → MySQL
+
 The application is fully dynamic, with all restaurant, menu, user, cart, and order data retrieved from and stored in a MySQL database using JDBC.
 
 ## 📂 Project Structure
